@@ -1,7 +1,7 @@
 # twitter-bot
 A simple twitter bot with Node.js, just for fun.
 
-* Functionality to ...
+* Functionality to automatically like certain number of tweets that match a desired keyword.
 
 ## Configuration
 
